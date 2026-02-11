@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://www.linkedin.com/in/waiza-fathima-6b5516380?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -17,7 +17,7 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://github.com/WaizaFathima-2003/WaizaFathima-2003/edit/main/README.md" />
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
@@ -39,7 +39,7 @@
 YOUR_SHORT_INTRODUCTION_PARAGRAPH
 
 Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
+Passionate  about Python Full Stack Developer specializing in scalable backend systems.
 Love building efficient applications and exploring AI/ML integration.
 
 ---
@@ -78,9 +78,9 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=WaizaFathima-2003&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Waiza Fathima&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -134,8 +134,8 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
+📧 Email: waizafathima7865@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/waiza-fathima-6b5516380?utm_source=share_via&utm_content=profile&utm_medium=member_android  
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
