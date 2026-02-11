@@ -57,8 +57,8 @@ Love building efficient applications and exploring AI/ML integration.
 • Framework 3  
 
 ### 💅 Frontend
-• Python 
 • HTML / CSS  
+• Python
 • Javascript  
 
 ### 🗄️ Databases
