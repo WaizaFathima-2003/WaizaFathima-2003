@@ -57,9 +57,9 @@ Love building efficient applications and exploring AI/ML integration.
 • Framework 3  
 
 ### 💅 Frontend
-• React / Vue / Angular  
+• Python 
 • HTML / CSS  
-• Tailwind / Bootstrap  
+• Javascript  
 
 ### 🗄️ Databases
 • PostgreSQL  
